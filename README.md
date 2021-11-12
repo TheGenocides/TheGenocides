@@ -1,6 +1,6 @@
 # Hello There!
 
-My name is TheGenocides. You can call me Geno or Luke. I'm a 14 years old male python developer that love making projects. I'm also a twitter enthusiast and a gamer addicted! 
+My name is TheGenocides. You can call me Geno or Luke. I'm a 14 years old male python developer that loves making projects. I'm also a twitter enthusiast and a gamer addicted! 
 
 ## Projects
 
@@ -16,7 +16,7 @@ My favorite subjects that i'm currently learning!
 - 💎 [Ruby](https://www.ruby-lang.org/en/)
 - 🐦 [Twitter API](https://developer.twitter.com/en/docs/api-reference-index)
 
-## Reached me!
+## Reach me!
 
 - [Discord](https://discord.com/users/685082846993317953)
 - [Twitter](https://twitter.com/TheGenocides3)
