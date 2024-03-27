@@ -1,8 +1,8 @@
 ## :bulb: About
 
-My name is TheGenocides. You can call me Geno or Luke. I'm a 14 years old male, python developer that loves creating projects. I'm also a twitter enthusiast and gaming addicted! 
+My name is TheGenocides. You can call me Geno or Luke. I'm a 16 years old male, python developer that loves creating projects. I'm also a twitter enthusiast and gaming addicted! 
 
-### Projects
+### Projects for begginers
 
 <a href="https://github-readme-stats.vercel.app/api?username=TheGenocides&show_icons=true&hide_border=true&theme=radical">
   <img align="right" width="50%" alt="TheGenocides's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheGenocides&show_icons=true&hide_border=true&theme=radical">
